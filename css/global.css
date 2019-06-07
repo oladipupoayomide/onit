@@ -1,0 +1,12 @@
+
+
+
+.form-container{
+    width:250px;
+    height:auto;
+    padding:20px 30px;
+    background-color:black;
+    border-radius:10px;
+    box-shadow:0 0 10px o #000;
+    margin: auto;
+}
